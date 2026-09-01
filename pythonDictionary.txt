@@ -1,2 +1,5 @@
 sept
 ogracias
+sep
+fahrenheit
+celsius
