@@ -3,3 +3,4 @@ ogracias
 sep
 fahrenheit
 celsius
+str
