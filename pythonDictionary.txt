@@ -4,3 +4,8 @@ sep
 fahrenheit
 celsius
 str
+str
+python
+tabbing
+tuesday
+tacos
