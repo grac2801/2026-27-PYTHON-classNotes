@@ -9,3 +9,5 @@ python
 tabbing
 tuesday
 tacos
+min
+int
