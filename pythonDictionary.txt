@@ -11,3 +11,5 @@ tuesday
 tacos
 min
 int
+min
+randrange
