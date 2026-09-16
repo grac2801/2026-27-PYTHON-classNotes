@@ -17,3 +17,17 @@ jacob
 jose
 mateo
 randrange
+oct
+martin
+luther
+juneteenth
+columbus
+taurus
+gemini
+virgo
+scorpio
+capricorn
+ifs
+aardvark
+unicodes
+methane
