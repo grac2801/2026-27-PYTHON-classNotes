@@ -4,6 +4,7 @@
 .project
 .pydevproject
 .settings/
+invisible/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
