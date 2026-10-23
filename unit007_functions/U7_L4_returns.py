@@ -35,12 +35,21 @@ def randomCard():
 
 if __name__ == '__main__':
     print(randomCard())
+<<<<<<< HEAD
     print(addition(23, 87))
     print(multiply(6, 3))
     a = int(input('Enter a: '))
     b = int(input('Enter b: '))
     
     print(pythagorean_SolveC(a, b))
+=======
+    # print(addition(23, 87))
+    # print(multiply(6, 3))
+    # a = int(input('Enter a: '))
+    # b = int(input('Enter b: '))
+    #
+    # print(pythagorean_SolveC(a, b))
+>>>>>>> refs/remotes/origin/master
     
     
     
