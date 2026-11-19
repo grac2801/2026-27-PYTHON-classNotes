@@ -41,3 +41,9 @@ gracias
 oscar
 bonita
 mol
+steve
+anthony
+adrian
+aureo
+daniel
+len
